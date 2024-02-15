@@ -1,0 +1,2 @@
+error code = 101 Error Message : cannot divide by zero
+error code = 101 Error Message : cannot divide by zero

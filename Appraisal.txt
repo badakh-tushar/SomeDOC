@@ -1,0 +1,105 @@
+1. Quality of Deliverables
+"1.Number of post release defects reported by Customer from the assigned modules = 0
+2. Number of High Severity(Critical & Major) defects Defects raised/Discovered internally as well as externally = 2 
+
+	a) Found a bug in clients rightsline app we aere consuming there apis for partiall search founs out there 
+	   api isnt giving proper data in required format reported it manager and then further to client via proper 
+	   emails and formal communication redesigned that functionalitya according to there updated api.
+	b) Found out there is fundamental change in a json structure which leaded to break in functionality
+	   i proactivily found that break in functionality is due to rightsline change in json structure,
+	   reported that to manager and further was conveyed to client through proper communication.
+
+	
+	
+
+3.Number of major review comments received on the code = 0 
+4.Effective writing & execution of Unit Test cases, Ensure the build is of high quality 
+	a) Tested every functionality which was developed by me,  developed ceratin functionaliity in a way that will remain intact 
+	even after there are certain changes in further requirement.
+	b) In our application  we had to test that functionality for all 11 screens still it was done relogiously for each user story i developed.
+	c) Once it was required to test ACR voice recognition functionality for that I personally tested 200+ songs and along with team we tested 
+	   500+ songs
+	    
+5. Ensure User Story/Use Case/Requirement scope is covered as part of the deliverable 
+	a) During peak time developed almost 5-6 user stories per week which required extra hours.
+	b) Did maintained record for every user story completed and reported it to lead/manager
+
+6. Adherance to best practices in coding, designing & relevant frameworks/tools"
+	a) Always followed guidlines given by project architect.
+
+
+2.Effective Communication
+
+
+"1. Effective, timely and clear reporting of the completed activities.
+	a) Always reported completed activities on time in proper format.
+
+ 2. Highlighted the major risk & their probable impacts to the concern person immediately
+	Whenever there were issue highlighted always reported them to mangers and team.
+
+ 3. Understands and strives to meet customer needs"
+	Understood complete need did proposed positive modification confirmed them with BA/ Manger and worked on them.
+
+
+3. Timeliness of deliverables
+
+ "1.Adhere to the committed timelines as per project schedule 
+	There was no delay in any of the user story and also did unit testing.
+
+  2.Timeliness of weekly reviews 
+	Always attended weekly reviews
+
+  3.Timeliness of audit related reports 
+  4. Ensuring for every Sprint/Release cycle, Defect Triage, Retrospective meetings & RCA are conducted without fail"
+	Attended all of the sprint/release cycle, retrospective meetings etc.
+
+4. Self Development & Training
+
+  "Up-Skilling and Cross skill developement - 
+  1 Cross-skill per year. Evaluation to be done by L&D team, if not contributing in project. Qualification criteria can be certificate, Assessment by L&D Team faciliated by DU Head, or project contribution
+	a) Learned dotnet core, asp.net, c#, T-Sql, Angular cleared Imocha for all of these test and evaluted by SMEs also did a demo Project.
+	b) Learned low code developement (Outsytems) from scartch attended 2 weeks of developer training school by Outsystems, futher did two demo project.
+  	c) Completed effective communication and soft skill training and also got evaluated for the same.
+	
+  2. Up-Skilling to be evaluated by appraiser 
+	
+	
+  3. Cleared any technology certification 
+	a) Got Officially certified from Outsytems as Reactive Web Developer in Outsystems with 88%.
+ 
+  4. Active participation in trainings & Timely completion of training assignments. 80 hrs annually on Technology Training & 1 Soft Skill training per half year"
+	a) Completed almost 500+ hours training on dotnet, C#, Angular, T-Sql etc.
+	b) Completed 40+ hours of Effective communication training and Soft Skill.
+	c) Completed self learning 50+ hours on Outsytems developer training.
+	
+
+
+5.Adherence to Effective Scrum Practices or Project define process
+
+ "1. Adhering to all the Scrum processes, with active and punctual participation in Scrum meetings.
+	a) Participated in every scrum call.
+
+  2. Participate actively and punctually in Daily scrum meetings, Sprint planning, Demo and Retrospective meetings. Absence/delays should be limited to max 5%, with prior intimation.
+	a) 100% participation in every project level meet. 
+
+  3. If scrum is not applicable needs to ensure project define processes are followed strictly "
+
+
+
+6. Org Level Contribution
+
+ "1. GitHub Contribution\Blog\White Paper: Contribute in Organization level GitHub repository(At-least one contribution per half year) At-least 1 technical blog/white paper per year " 
+  
+  2. Value Addition: Value Additions to Projects - Quantifiable value additions - Customer Feedback on same" 
+	a) Activily participated in understanding and delivering client requirement.
+
+  3. Org level Initiatives/Events: Active Participation in org level activity as participant/organizer - 1 per half year "
+	a) Participated in DU head advertisement acted as falsh (marvel character).
+	b) Participated in Tree plantation activity headed by HR head.
+	c) Visited Navkshitij to express gratitude.
+	d) Visited trekking baner hills.
+
+
+
+
+
